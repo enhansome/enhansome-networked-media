@@ -1,0 +1,560 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Black Hole",
+          "description": "(mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T23:33:14Z",
+            "owner": "ExistentialAudio",
+            "repo": "BlackHole",
+            "stars": 19550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soundflower",
+          "description": "(mac-only) - creates 2 loopback audio devices (2ch and 64ch).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2024-12-07T20:14:19Z",
+            "owner": "mattingalls",
+            "repo": "Soundflower",
+            "stars": 9049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlexASIO",
+          "description": "(windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-27T18:48:58Z",
+            "owner": "dechamps",
+            "repo": "FlexASIO",
+            "stars": 2009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qpwgraph",
+          "description": "(linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T16:21:45Z",
+            "owner": "rncbc",
+            "repo": "qpwgraph",
+            "stars": 690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtual Audio Capture Device",
+          "description": "(windows-only) - free audio capture device to capture all the \"wave out sound\" that is playing on your speakers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-03-25T05:23:36Z",
+            "owner": "rdp",
+            "repo": "virtual-audio-capture-grabber-device",
+            "stars": 616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.JS JACK-connector",
+          "description": "Bindings JACK-Audio-Connection-Kit for Node.JS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-09T20:38:45Z",
+            "owner": "unclechu",
+            "repo": "node-jack-connector",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JackBridge",
+          "description": "(mac-only) - an alternative to jackrouter for MacOS which acts as virtual audio interface (currently 2in-4out) connected to Jackaudio server directly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-15T04:23:16Z",
+            "owner": "madhatter68",
+            "repo": "JackRouter",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simplejack",
+          "description": "This Nodejs module enables you to register simple JACK clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-10-20T15:58:50Z",
+            "owner": "mildsunrise",
+            "repo": "simplejack",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cs.2click",
+          "description": "A Better Audio Router for a Modular System in Max MSP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Max",
+            "last_commit": "2018-05-17T21:50:11Z",
+            "owner": "delucis",
+            "repo": "cs.2click",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OBSAudioRouter",
+          "description": "(mac-only) - A simple microphone + external audiodevices passthrough/rerouter for MacOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-04-09T05:31:50Z",
+            "owner": "lysdexic-audio",
+            "repo": "OBSAudioRouter",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Jack",
+          "description": "cross-platform API that enables device sharing and also inter-application audio routing.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[JackRouter on Windows",
+              "description": "] [Catalina support discussion]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T20:23:12Z",
+                "owner": "jackaudio",
+                "repo": "jackaudio.github.com",
+                "stars": 480
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Audio Routing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jamulus",
+          "description": "software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T09:38:06Z",
+            "owner": "jamulussoftware",
+            "repo": "jamulus",
+            "stars": 1119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jacktrip",
+          "description": "multi-machine audio system used for network music performance over the Internet, that may offer the best latency using uncompressed audio.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "resources: [ccrma",
+              "description": "] [kadenze] [chrischafe] [mdessen] [dessen] [loveridge] [jacktrip-users] [och] [oconnor] [synthia] [ jstoltenberg] [rbedgar]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Max",
+                "last_commit": "2025-02-08T21:12:47Z",
+                "owner": "omarcostahamido",
+                "repo": "One-Quick-Solution",
+                "stars": 5
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-08T14:53:32Z",
+            "owner": "jacktrip",
+            "repo": "jacktrip",
+            "stars": 1049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyRTC",
+          "description": "WebRTC based implementation, originally forked from priologic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T05:04:07Z",
+            "owner": "open-easyrtc",
+            "repo": "open-easyrtc",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JackTrip WebRTC",
+          "description": "(TBA) - JackTrip WebRTC is an HTML5 implementation of Jacktrip for the web browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-13T20:47:48Z",
+            "owner": "jacktrip-webrtc",
+            "repo": "jacktrip-webrtc",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JamTaba 2",
+          "description": "play online music jam sessions with musicians around the world using ninjam servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-02-08T06:41:21Z",
+            "owner": "elieserdejesus",
+            "repo": "JamTaba",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodeJsVoip",
+          "description": "A simple nodeJs Websocket VOIP application without the use of WebRTC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-07T14:54:21Z",
+            "owner": "cracker0dks",
+            "repo": "nodeJsVoip",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ovbox",
+          "description": "remote collaboration box developed by the ensemble ORLANDOviols using open source software and open or standardized hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-28T08:57:28Z",
+            "owner": "gisogrimm",
+            "repo": "ovbox",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jamtrip",
+          "description": "A cross-platform, electron-based, graphical user interface (GUI) front end for JackTrip and JACK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-04-01T19:03:46Z",
+            "owner": "vicwomg",
+            "repo": "jamtrip",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuaxTrip",
+          "description": "Max patch encapsulating the Quack4, a VST version of Miller Puckette's QuackTrip, a Pd implementation of JackTrip.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Max",
+            "last_commit": "2024-07-24T01:25:23Z",
+            "owner": "damonholzborn",
+            "repo": "Quaxtrip",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HQStreamer2",
+          "description": "Stream audio between DAWs locally or across the internet using a standalone or audio plugin devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-04-17T23:19:36Z",
+            "owner": "sauraen",
+            "repo": "HQStreamer2",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raspberry-jam",
+          "description": "Use a Raspberry Pi and audio shield to connect musicians, or poets, together from distant locations.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-12-11T11:35:12Z",
+            "owner": "rbultman",
+            "repo": "raspberry-jam",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quack4",
+          "description": "A quacktrip v0.5 plugin that handles a 3 way connection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Max",
+            "last_commit": "2020-08-07T02:24:36Z",
+            "owner": "fdch",
+            "repo": "Quack4",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "icecast",
+          "description": "streaming media server which currently supports Ogg (Vorbis and Theora), Opus, WebM and MP3 streams.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ŻyweRadio",
+              "description": "online radio using icecast to broadcast stream of music performed live.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2020-03-15T00:14:32Z",
+                "owner": "kfirmanty",
+                "repo": "zywe-radio",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "netsend~",
+          "description": "(old) streaming externals for Max/MSP and Pure Data that allow high quality, uncompressed multichannel audio to be transmitted over LAN or Internet2 with very low latency.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "see also: [udpsend~",
+              "description": "] [~bcast]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2020-08-22T05:16:57Z",
+                "owner": "pd-l2ork",
+                "repo": "pd",
+                "stars": 127
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Audio Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jit.ndi",
+          "description": "Extensions for sending/receiving video and audio using the Newtek NDI® protocol in Cycling 74's Max.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-16T11:14:46Z",
+            "owner": "pixsper",
+            "repo": "jit.ndi",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Syphon Virtual Webcam",
+          "description": "(mac-only) - free, open-source app for macOS that routes Syphon video to a virtual web cam, allowing apps that don't offer Syphon input to receive a Syphon video signal.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[github",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Objective-C",
+                "last_commit": "2026-07-14T10:10:16Z",
+                "owner": "TroikaTronix",
+                "repo": "Syphon-Virtual-Webcam",
+                "stars": 37
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Video Routing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "streamlabs",
+          "description": "open source streaming software built on OBS and Electron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:58:34Z",
+            "owner": "streamlabs",
+            "repo": "desktop",
+            "stars": 4834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiroTalk P2P",
+          "description": "Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T08:35:58Z",
+            "owner": "miroslavpejic85",
+            "repo": "mirotalk",
+            "stars": 4691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timingsrc",
+          "description": "Source code for timing related libraries managed by webtiming (multi-device timing CG)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-15T08:44:08Z",
+            "owner": "webtiming",
+            "repo": "timingsrc",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live Lab",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-10T22:44:01Z",
+            "owner": "ojack",
+            "repo": "LiveLab",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Video Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fourhands",
+          "description": "Fourhands uses WebRTC to establish p2p connetions for minimal latency 2-person jamming using MIDI keyboards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-05T05:01:26Z",
+            "owner": "jminjie",
+            "repo": "fourhands",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TR-P2P",
+          "description": "Node.js server and p5.js client for a networked MIDI sequencer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-12T06:41:03Z",
+            "owner": "samcar17",
+            "repo": "TR-P2P",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Intersymmetric Sequencer 1",
+          "description": "real-time multiplayer collaborative drum machine sequencer in the browser.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Other"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:42:24.369Z",
+    "original_repository": "omarcostahamido/awesome-networked-media",
+    "original_repository_sha": "67055a0ef59294c04fe60c27620bdaae3b8fa548",
+    "enhanced_repository": "enhansome/enhansome-networked-media",
+    "enhanced_repository_description": null,
+    "title": "Awesome Networked Media with stars"
+  }
+}
