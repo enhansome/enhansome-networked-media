@@ -14,7 +14,7 @@
             "last_commit": "2026-08-11T23:33:14Z",
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19550
+            "stars": 19557
           }
         },
         {
@@ -178,10 +178,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T09:38:06Z",
+            "last_commit": "2026-08-13T18:35:28Z",
             "owner": "jamulussoftware",
             "repo": "jamulus",
-            "stars": 1119
+            "stars": 1120
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-06-08T14:53:32Z",
             "owner": "jacktrip",
             "repo": "jacktrip",
-            "stars": 1049
+            "stars": 1050
           }
         },
         {
@@ -450,10 +450,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:58:34Z",
+            "last_commit": "2026-08-13T23:44:57Z",
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4834
+            "stars": 4835
           }
         },
         {
@@ -464,7 +464,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T08:35:58Z",
+            "last_commit": "2026-08-13T15:59:56Z",
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
             "stars": 4691
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:42:24.369Z",
+    "last_updated": "2026-08-14T09:36:51.965Z",
     "original_repository": "omarcostahamido/awesome-networked-media",
     "original_repository_sha": "67055a0ef59294c04fe60c27620bdaae3b8fa548",
     "enhanced_repository": "enhansome/enhansome-networked-media",
