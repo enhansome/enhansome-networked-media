@@ -12,9 +12,9 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Audio Routing
 
-* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,585 | 🐛 10 | 🌐 C | 📅 2026-08-11 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
-* [Soundflower](https://github.com/mattingalls/Soundflower) ⭐ 9,048 | 🐛 7 | 🌐 Objective-C | 📅 2024-12-07 (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
-* [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,007 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
+* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,584 | 🐛 10 | 🌐 C | 📅 2026-08-11 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
+* [Soundflower](https://github.com/mattingalls/Soundflower) ⭐ 9,049 | 🐛 7 | 🌐 Objective-C | 📅 2024-12-07 (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
+* [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,008 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
 * [qpwgraph](https://github.com/rncbc/qpwgraph) ⭐ 697 | 🐛 44 | 🌐 C++ | 📅 2026-08-04 (linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.
 * [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) ⭐ 616 | 🐛 20 | 🌐 C++ | 📅 2022-03-25 (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers.
 * [Node.JS JACK-connector](https://github.com/unclechu/node-jack-connector) ⭐ 52 | 🐛 14 | 🌐 C++ | 📅 2023-06-09 - Bindings JACK-Audio-Connection-Kit for Node.JS
