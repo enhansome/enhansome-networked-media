@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211381291,
             "language": "C",
             "last_commit": "2026-08-11T23:33:14Z",
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19575
+            "stars": 19585
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26034210,
             "language": "Objective-C",
             "last_commit": "2024-12-07T20:14:19Z",
             "owner": "mattingalls",
             "repo": "Soundflower",
-            "stars": 9049
+            "stars": 9048
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16891206,
             "language": "C++",
             "last_commit": "2024-06-27T18:48:58Z",
             "owner": "dechamps",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 502854931,
             "language": "C++",
             "last_commit": "2026-08-04T16:21:45Z",
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 695
+            "stars": 697
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 808478,
             "language": "C++",
             "last_commit": "2022-03-25T05:23:36Z",
             "owner": "rdp",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11713862,
             "language": "C++",
             "last_commit": "2023-06-09T20:38:45Z",
             "owner": "unclechu",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79554802,
             "language": "C++",
             "last_commit": "2020-08-15T04:23:16Z",
             "owner": "madhatter68",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25377209,
             "language": "C++",
             "last_commit": "2014-10-20T15:58:50Z",
             "owner": "mildsunrise",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31438580,
             "language": "Max",
             "last_commit": "2018-05-17T21:50:11Z",
             "owner": "delucis",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254088873,
             "language": "C++",
             "last_commit": "2020-04-09T05:31:50Z",
             "owner": "lysdexic-audio",
@@ -155,6 +165,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3336835,
                 "language": "HTML",
                 "last_commit": "2026-08-11T20:23:12Z",
                 "owner": "jackaudio",
@@ -168,7 +179,7 @@
       "title": "Audio Routing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -177,6 +188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177287710,
             "language": "C",
             "last_commit": "2026-08-17T18:05:02Z",
             "owner": "jamulussoftware",
@@ -196,6 +208,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 56269680,
                 "language": "Max",
                 "last_commit": "2025-02-08T21:12:47Z",
                 "owner": "omarcostahamido",
@@ -206,6 +219,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 32189587,
             "language": "C++",
             "last_commit": "2026-08-18T01:42:07Z",
             "owner": "jacktrip",
@@ -220,6 +234,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202019957,
             "language": "JavaScript",
             "last_commit": "2026-08-05T05:04:07Z",
             "owner": "open-easyrtc",
@@ -234,6 +249,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251247545,
             "language": "JavaScript",
             "last_commit": "2022-12-13T20:47:48Z",
             "owner": "jacktrip-webrtc",
@@ -248,6 +264,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44837785,
             "language": "C++",
             "last_commit": "2022-02-08T06:41:21Z",
             "owner": "elieserdejesus",
@@ -262,6 +279,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37807513,
             "language": "JavaScript",
             "last_commit": "2019-11-07T14:54:21Z",
             "owner": "cracker0dks",
@@ -276,6 +294,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258585633,
             "language": "C++",
             "last_commit": "2025-06-28T08:57:28Z",
             "owner": "gisogrimm",
@@ -290,6 +309,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316863980,
             "language": "TypeScript",
             "last_commit": "2021-04-01T19:03:46Z",
             "owner": "vicwomg",
@@ -304,6 +324,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286161030,
             "language": "Max",
             "last_commit": "2024-07-24T01:25:23Z",
             "owner": "damonholzborn",
@@ -318,6 +339,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250614595,
             "language": "C++",
             "last_commit": "2020-04-17T23:19:36Z",
             "owner": "sauraen",
@@ -332,6 +354,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 249845387,
             "language": "C++",
             "last_commit": "2022-12-11T11:35:12Z",
             "owner": "rbultman",
@@ -346,6 +369,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281797148,
             "language": "Max",
             "last_commit": "2020-08-07T02:24:36Z",
             "owner": "fdch",
@@ -365,6 +389,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 247354557,
                 "language": "CSS",
                 "last_commit": "2020-03-15T00:14:32Z",
                 "owner": "kfirmanty",
@@ -386,6 +411,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2617145,
                 "language": "C",
                 "last_commit": "2020-08-22T05:16:57Z",
                 "owner": "pd-l2ork",
@@ -399,7 +425,7 @@
       "title": "Audio Networking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -408,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122133619,
             "language": "C",
             "last_commit": "2026-01-16T11:14:46Z",
             "owner": "pixsper",
@@ -427,6 +454,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 275105026,
                 "language": "Objective-C",
                 "last_commit": "2026-07-14T10:10:16Z",
                 "owner": "TroikaTronix",
@@ -440,7 +468,7 @@
       "title": "Video Routing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -449,11 +477,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108469351,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:26:43Z",
+            "last_commit": "2026-08-18T23:08:43Z",
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4839
+            "stars": 4840
           }
         },
         {
@@ -463,11 +492,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326059244,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T18:13:10Z",
+            "last_commit": "2026-08-18T16:45:53Z",
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4695
+            "stars": 4697
           }
         },
         {
@@ -477,6 +507,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46489101,
             "language": "JavaScript",
             "last_commit": "2025-01-15T08:44:08Z",
             "owner": "webtiming",
@@ -491,6 +522,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55853416,
             "language": "JavaScript",
             "last_commit": "2025-12-10T22:44:01Z",
             "owner": "ojack",
@@ -502,7 +534,7 @@
       "title": "Video Networking"
     },
     {
-      "description": "",
+      "description": "BibTeX | here",
       "items": [
         {
           "node_type": "item",
@@ -511,6 +543,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325649673,
             "language": "JavaScript",
             "last_commit": "2024-06-05T05:01:26Z",
             "owner": "jminjie",
@@ -525,32 +558,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 607488205,
             "language": "JavaScript",
             "last_commit": "2023-03-12T06:41:03Z",
             "owner": "samcar17",
             "repo": "TR-P2P",
             "stars": 0
           }
-        },
-        {
-          "node_type": "group",
-          "title": "Intersymmetric Sequencer 1",
-          "description": "real-time multiplayer collaborative drum machine sequencer in the browser.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "github",
-              "description": null,
-              "children": []
-            }
-          ]
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:04:35.050Z",
+    "last_updated": "2026-08-19T09:06:34.117Z",
     "original_repository": "omarcostahamido/awesome-networked-media",
     "original_repository_sha": "67055a0ef59294c04fe60c27620bdaae3b8fa548",
     "enhanced_repository": "enhansome/enhansome-networked-media",
