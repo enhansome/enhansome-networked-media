@@ -15,7 +15,7 @@
             "last_commit": "2026-08-11T23:33:14Z",
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19616
+            "stars": 19617
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-12-07T20:14:19Z",
             "owner": "mattingalls",
             "repo": "Soundflower",
-            "stars": 9049
+            "stars": 9050
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-06-27T18:48:58Z",
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2015
+            "stars": 2014
           }
         },
         {
@@ -221,7 +221,7 @@
             "archived": false,
             "id": 32189587,
             "language": "C++",
-            "last_commit": "2026-08-23T20:29:46Z",
+            "last_commit": "2026-08-24T14:34:49Z",
             "owner": "jacktrip",
             "repo": "jacktrip",
             "stars": 1051
@@ -494,7 +494,7 @@
             "archived": false,
             "id": 326059244,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T09:23:36Z",
+            "last_commit": "2026-08-24T09:37:19Z",
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
             "stars": 4703
@@ -534,7 +534,7 @@
       "title": "Video Networking"
     },
     {
-      "description": "BibTeX | here",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -568,10 +568,61 @@
         }
       ],
       "title": "Other"
+    },
+    {
+      "description": "BibTeX | here",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MLA 8th",
+          "description": "Hamido, Omar Costa, and Michael Dessen and Guillaume Pellerin and Jules Penuchot. Awesome Networked Media. 2020. 2020. GitHub, https://github.com/omarcostahamido/awesome-networked-media.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255249365,
+            "language": "TeX",
+            "last_commit": "2026-03-13T15:01:51Z",
+            "owner": "omarcostahamido",
+            "repo": "awesome-networked-media",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APA 7th",
+          "description": "Hamido, O. C., & Dessen, M., & Pellerin, G., & Penuchot, J. (2020). Awesome Networked Media. https://github.com/omarcostahamido/awesome-networked-media (Original work published 2020)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255249365,
+            "language": "TeX",
+            "last_commit": "2026-03-13T15:01:51Z",
+            "owner": "omarcostahamido",
+            "repo": "awesome-networked-media",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chicago 17th",
+          "description": "Hamido, Omar Costa, and Michael Dessen, and Guillaume Pellerin, and Jules Penuchot. Awesome Networked Media, 2020. https://github.com/omarcostahamido/awesome-networked-media.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255249365,
+            "language": "TeX",
+            "last_commit": "2026-03-13T15:01:51Z",
+            "owner": "omarcostahamido",
+            "repo": "awesome-networked-media",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Feel free to cite this:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:24:57.231Z",
+    "last_updated": "2026-08-24T14:41:53.927Z",
     "original_repository": "omarcostahamido/awesome-networked-media",
     "original_repository_id": 255249365,
     "original_repository_sha": "67055a0ef59294c04fe60c27620bdaae3b8fa548",
