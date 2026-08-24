@@ -15,7 +15,7 @@
             "last_commit": "2026-08-11T23:33:14Z",
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19609
+            "stars": 19616
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-06-27T18:48:58Z",
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2014
+            "stars": 2015
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-04T16:21:45Z",
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 699
+            "stars": 701
           }
         },
         {
@@ -190,10 +190,10 @@
             "archived": false,
             "id": 177287710,
             "language": "C",
-            "last_commit": "2026-08-22T08:46:05Z",
+            "last_commit": "2026-08-23T16:11:50Z",
             "owner": "jamulussoftware",
             "repo": "jamulus",
-            "stars": 1122
+            "stars": 1123
           }
         },
         {
@@ -221,7 +221,7 @@
             "archived": false,
             "id": 32189587,
             "language": "C++",
-            "last_commit": "2026-08-22T22:06:07Z",
+            "last_commit": "2026-08-23T20:29:46Z",
             "owner": "jacktrip",
             "repo": "jacktrip",
             "stars": 1051
@@ -479,7 +479,7 @@
             "archived": false,
             "id": 108469351,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T10:43:36Z",
+            "last_commit": "2026-08-24T03:50:35Z",
             "owner": "streamlabs",
             "repo": "desktop",
             "stars": 4841
@@ -494,10 +494,10 @@
             "archived": false,
             "id": 326059244,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T21:59:57Z",
+            "last_commit": "2026-08-24T09:23:36Z",
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4702
+            "stars": 4703
           }
         },
         {
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:59:09.840Z",
+    "last_updated": "2026-08-24T09:24:57.231Z",
     "original_repository": "omarcostahamido/awesome-networked-media",
     "original_repository_id": 255249365,
     "original_repository_sha": "67055a0ef59294c04fe60c27620bdaae3b8fa548",
