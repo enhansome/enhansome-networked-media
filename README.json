@@ -15,7 +15,7 @@
             "last_commit": "2026-08-11T23:33:14Z",
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19636
+            "stars": 19639
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-26T08:08:36Z",
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 703
+            "stars": 704
           }
         },
         {
@@ -479,7 +479,7 @@
             "archived": false,
             "id": 108469351,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T05:22:20Z",
+            "last_commit": "2026-08-27T19:13:17Z",
             "owner": "streamlabs",
             "repo": "desktop",
             "stars": 4842
@@ -494,10 +494,10 @@
             "archived": false,
             "id": 326059244,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T00:01:46Z",
+            "last_commit": "2026-08-27T14:16:45Z",
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4708
+            "stars": 4709
           }
         },
         {
@@ -622,7 +622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:06.732Z",
+    "last_updated": "2026-08-27T19:13:26.618Z",
     "original_repository_info": {
       "archived": false,
       "id": 255249365,
