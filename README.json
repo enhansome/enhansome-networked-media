@@ -15,8 +15,9 @@
             "last_commit": "2026-08-11T23:33:14Z",
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19639
-          }
+            "stars": 19653
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mattingalls",
             "repo": "Soundflower",
             "stars": 9050
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2024-06-27T18:48:58Z",
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2016
-          }
+            "stars": 2019
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-26T08:08:36Z",
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 704
-          }
+            "stars": 706
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "rdp",
             "repo": "virtual-audio-capture-grabber-device",
             "stars": 617
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "unclechu",
             "repo": "node-jack-connector",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "madhatter68",
             "repo": "JackRouter",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mildsunrise",
             "repo": "simplejack",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "delucis",
             "repo": "cs.2click",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "lysdexic-audio",
             "repo": "OBSAudioRouter",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "group",
@@ -171,7 +181,8 @@
                 "owner": "jackaudio",
                 "repo": "jackaudio.github.com",
                 "stars": 481
-              }
+              },
+              "first_seen": "2026-08-28T20:19:43.682Z"
             }
           ]
         }
@@ -190,11 +201,12 @@
             "archived": false,
             "id": 177287710,
             "language": "C",
-            "last_commit": "2026-08-25T07:31:53Z",
+            "last_commit": "2026-08-28T17:43:18Z",
             "owner": "jamulussoftware",
             "repo": "jamulus",
             "stars": 1125
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
                 "owner": "omarcostahamido",
                 "repo": "One-Quick-Solution",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:19:43.682Z"
             }
           ],
           "repo_info": {
@@ -225,7 +238,8 @@
             "owner": "jacktrip",
             "repo": "jacktrip",
             "stars": 1051
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -240,7 +254,8 @@
             "owner": "open-easyrtc",
             "repo": "open-easyrtc",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -255,7 +270,8 @@
             "owner": "jacktrip-webrtc",
             "repo": "jacktrip-webrtc",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -270,7 +286,8 @@
             "owner": "elieserdejesus",
             "repo": "JamTaba",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -285,7 +302,8 @@
             "owner": "cracker0dks",
             "repo": "nodeJsVoip",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -300,7 +318,8 @@
             "owner": "gisogrimm",
             "repo": "ovbox",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -315,7 +334,8 @@
             "owner": "vicwomg",
             "repo": "jamtrip",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -330,7 +350,8 @@
             "owner": "damonholzborn",
             "repo": "Quaxtrip",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -345,7 +366,8 @@
             "owner": "sauraen",
             "repo": "HQStreamer2",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -360,7 +382,8 @@
             "owner": "rbultman",
             "repo": "raspberry-jam",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -375,7 +398,8 @@
             "owner": "fdch",
             "repo": "Quack4",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "group",
@@ -395,7 +419,8 @@
                 "owner": "kfirmanty",
                 "repo": "zywe-radio",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:19:43.682Z"
             }
           ]
         },
@@ -417,7 +442,8 @@
                 "owner": "pd-l2ork",
                 "repo": "pd",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T20:19:43.682Z"
             }
           ]
         }
@@ -440,7 +466,8 @@
             "owner": "pixsper",
             "repo": "jit.ndi",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "group",
@@ -460,7 +487,8 @@
                 "owner": "TroikaTronix",
                 "repo": "Syphon-Virtual-Webcam",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T20:19:43.682Z"
             }
           ]
         }
@@ -479,11 +507,12 @@
             "archived": false,
             "id": 108469351,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:13:17Z",
+            "last_commit": "2026-08-28T20:06:25Z",
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4842
-          }
+            "stars": 4843
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -494,11 +523,12 @@
             "archived": false,
             "id": 326059244,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T14:16:45Z",
+            "last_commit": "2026-08-27T21:33:42Z",
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4709
-          }
+            "stars": 4710
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -513,7 +543,8 @@
             "owner": "webtiming",
             "repo": "timingsrc",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -528,7 +559,8 @@
             "owner": "ojack",
             "repo": "LiveLab",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         }
       ],
       "title": "Video Networking"
@@ -549,7 +581,8 @@
             "owner": "jminjie",
             "repo": "fourhands",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -564,7 +597,8 @@
             "owner": "samcar17",
             "repo": "TR-P2P",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         }
       ],
       "title": "Other"
@@ -585,7 +619,8 @@
             "owner": "omarcostahamido",
             "repo": "awesome-networked-media",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -600,7 +635,8 @@
             "owner": "omarcostahamido",
             "repo": "awesome-networked-media",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         },
         {
           "node_type": "item",
@@ -615,14 +651,15 @@
             "owner": "omarcostahamido",
             "repo": "awesome-networked-media",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T20:19:43.682Z"
         }
       ],
       "title": "Feel free to cite this:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:13:26.618Z",
+    "last_updated": "2026-08-28T20:19:43.682Z",
     "original_repository_info": {
       "archived": false,
       "id": 255249365,
