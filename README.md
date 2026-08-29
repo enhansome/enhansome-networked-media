@@ -38,7 +38,7 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Audio Networking
 
-* [Jamulus](https://github.com/corrados/jamulus) ⭐ 1,125 | 🐛 182 | 🌐 C | 📅 2026-08-28 - software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.
+* [Jamulus](https://github.com/corrados/jamulus) ⭐ 1,125 | 🐛 183 | 🌐 C | 📅 2026-08-28 - software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.
 * [Jacktrip](https://github.com/jacktrip/jacktrip) ⭐ 1,051 | 🐛 41 | 🌐 C++ | 📅 2026-08-26 - multi-machine audio system used for network music performance over the Internet, that may offer the best latency using uncompressed audio.
   * resources: \[[ccrma](https://ccrma.stanford.edu/software/jacktrip/)] \[[kadenze](https://www.kadenze.com/courses/online-jamming-and-concert-technology-x/info)] \[[chrischafe](http://chrischafe.net/online-jamming-and-concert-technology-online-course/)] \[[mdessen](https://mdessen.com/portfolio/networked-music-performance-resources/)] \[[dessen](https://docs.google.com/document/d/1YLX8NatB_Ktdr24LyVg7h_P3zwG1lh1D0A0e733mCYo/edit)] \[[loveridge](https://docs.google.com/document/d/18pbu2xQRv521NKvHuYHjIVXRcLFqcDsqYnfKixyuyGg/edit)] \[[jacktrip-users](https://groups.google.com/forum/#!forum/jacktrip-users)] \[[och](https://github.com/omarcostahamido/One-Quick-Solution_Patches/tree/master/Other) ⭐ 5 | 🐛 1 | 🌐 Max | 📅 2025-02-08] \[[oconnor](https://www.haven2.com/index.php/archives/configuring-starting-and-running-a-multi-client-jacktrip-server)] \[[synthia](https://www.youtube.com/watch?v=9yGQ23EbBTw\&list=PL1PiOF-Vo5KA-xxBue6BjdrEQAXOzDlNM)] \[[
     jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAKym28To)] \[[rbedgar](https://www.robertedgar.com/themencode-pdf-viewer-sc/?tnc_pvfw=ZmlsZT1odHRwczovL3d3dy5yb2JlcnRlZGdhci5jb20vQXJ0aWNsZXMvSkFDS1RSSVBfTUFDX0RPXzgtNC0yMDIwLXMucGRmJnNldHRpbmdzPTExMTExMDExMTExMTExMTExMDAmbGFuZz1lbi1VUw==#page=&;zoom=auto\&pagemode=none)]
@@ -110,7 +110,7 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Video Networking
 
-* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,843 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-28 - open source streaming software built on OBS and Electron.
+* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,843 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-28 - open source streaming software built on OBS and Electron.
 * [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) ⭐ 4,710 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-27 - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
 * [timingsrc](https://github.com/webtiming/timingsrc) ⭐ 163 | 🐛 13 | 🌐 JavaScript | 📅 2025-01-15 - Source code for timing related libraries managed by webtiming (multi-device timing CG)
 * [Live Lab](https://github.com/ojack/LiveLab) ⭐ 56 | 🐛 27 | 🌐 JavaScript | 📅 2025-12-10
@@ -189,4 +189,4 @@ BibTeX | [here](https://github.com/omarcostahamido/awesome-networked-media/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

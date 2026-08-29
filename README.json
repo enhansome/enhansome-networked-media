@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
+            "homepage": null,
             "id": 211381291,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T23:33:14Z",
+            "open_issues": 12,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19653
+            "stars": 19653,
+            "topics": [
+              "audio",
+              "driver",
+              "loopback",
+              "macos",
+              "virtual-audio-cable"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.",
+            "homepage": "https://github.com/mattingalls/Soundflower",
             "id": 26034210,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2024-12-07T20:14:19Z",
+            "open_issues": 7,
             "owner": "mattingalls",
             "repo": "Soundflower",
-            "stars": 9050
+            "stars": 9050,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -42,12 +58,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible universal ASIO driver that uses the PortAudio sound I/O library. Supports WASAPI (shared and exclusive), KS, DirectSound and MME.",
+            "homepage": null,
             "id": 16891206,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-27T18:48:58Z",
+            "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2019
+            "stars": 2019,
+            "topics": [
+              "asio",
+              "asio-drivers",
+              "audio",
+              "audio-plugin",
+              "c-plus-plus",
+              "directsound",
+              "mme",
+              "portaudio",
+              "wasapi",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -58,12 +90,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "qpwgraph - A PipeWire Graph Qt GUI Interface",
+            "homepage": "https://gitlab.freedesktop.org/rncbc/qpwgraph",
             "id": 502854931,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T08:08:36Z",
+            "open_issues": 47,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 706
+            "stars": 706,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -74,12 +111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "free audio capture device to capture all the \"wave out sound\" that is playing on your speakers  (i.e. record what you hear) for Windows Vista+.  Releases downloadable in this package: ",
+            "homepage": "https://github.com/rdp/screen-capture-recorder-to-video-windows-free",
             "id": 808478,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-25T05:23:36Z",
+            "open_issues": 20,
             "owner": "rdp",
             "repo": "virtual-audio-capture-grabber-device",
-            "stars": 617
+            "stars": 617,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -90,12 +132,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bindings JACK-Audio-Connection-Kit for Node.JS",
+            "homepage": null,
             "id": 11713862,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-06-09T20:38:45Z",
+            "open_issues": 14,
             "owner": "unclechu",
             "repo": "node-jack-connector",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "audio",
+              "ecmascript",
+              "jack-audio-connection-kit",
+              "javascript",
+              "js",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -106,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another JackRouter implementation for MacOS",
+            "homepage": null,
             "id": 79554802,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-08-15T04:23:16Z",
+            "open_issues": 5,
             "owner": "madhatter68",
             "repo": "JackRouter",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -122,12 +181,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, realtime JACK audio in Node.JS",
+            "homepage": null,
             "id": 25377209,
             "language": "C++",
+            "license": "ISC",
             "last_commit": "2014-10-20T15:58:50Z",
+            "open_issues": 1,
             "owner": "mildsunrise",
             "repo": "simplejack",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "audio",
+              "jack",
+              "nodejs",
+              "real-time"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -138,12 +207,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":loud_sound: A Better Audio Router for a Modular System.",
+            "homepage": null,
             "id": 31438580,
             "language": "Max",
+            "license": "GPL-3.0",
             "last_commit": "2018-05-17T21:50:11Z",
+            "open_issues": 0,
             "owner": "delucis",
             "repo": "cs.2click",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "audio",
+              "maxmsp",
+              "modular",
+              "music",
+              "package",
+              "signal",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -154,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple microphone + external audiodevices rerouter for MacOS users of OBS",
+            "homepage": "https://github.com/lysdexic-audio/OBSAudioRouter",
             "id": 254088873,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-04-09T05:31:50Z",
+            "open_issues": 2,
             "owner": "lysdexic-audio",
             "repo": "OBSAudioRouter",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -175,12 +262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jackaudio's Website and Wiki hosted at github",
+                "homepage": null,
                 "id": 3336835,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-11T20:23:12Z",
+                "open_issues": 41,
                 "owner": "jackaudio",
                 "repo": "jackaudio.github.com",
-                "stars": 481
+                "stars": 481,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:19:43.682Z"
             }
@@ -199,12 +291,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jamulus enables musicians to perform real-time jam sessions over the internet.",
+            "homepage": "https://jamulus.io",
             "id": 177287710,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:43:18Z",
+            "open_issues": 183,
             "owner": "jamulussoftware",
             "repo": "jamulus",
-            "stars": 1125
+            "stars": 1125,
+            "topics": [
+              "audio",
+              "internet",
+              "jam-sessions",
+              "jamulus",
+              "low-latency-audio",
+              "online-jamming",
+              "opus",
+              "realtime"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -220,24 +326,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple one-quick-solution patches to grab-and-go.",
+                "homepage": null,
                 "id": 56269680,
                 "language": "Max",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-02-08T21:12:47Z",
+                "open_issues": 1,
                 "owner": "omarcostahamido",
                 "repo": "One-Quick-Solution",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:19:43.682Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "JackTrip: multi-machine audio network performance over the Internet.",
+            "homepage": "https://jacktrip.github.io/jacktrip",
             "id": 32189587,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:42:02Z",
+            "open_issues": 41,
             "owner": "jacktrip",
             "repo": "jacktrip",
-            "stars": 1051
+            "stars": 1051,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -248,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-EasyRTC - Easy WebRTC stack",
+            "homepage": "https://open-easyrtc.github.io/open-easyrtc/client/index.html",
             "id": 202019957,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-05T05:04:07Z",
+            "open_issues": 14,
             "owner": "open-easyrtc",
             "repo": "open-easyrtc",
-            "stars": 411
+            "stars": 411,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -264,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JackTrip meets WebRTC",
+            "homepage": null,
             "id": 251247545,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-13T20:47:48Z",
+            "open_issues": 22,
             "owner": "jacktrip-webrtc",
             "repo": "jacktrip-webrtc",
-            "stars": 396
+            "stars": 396,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -280,12 +406,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jamtaba is a software to play online music jam sessions.",
+            "homepage": "http://www.jamtaba.com",
             "id": 44837785,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-02-08T06:41:21Z",
+            "open_issues": 164,
             "owner": "elieserdejesus",
             "repo": "JamTaba",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "audio-unit",
+              "jam",
+              "midi",
+              "music",
+              "music-collaboration",
+              "ninjam",
+              "qt",
+              "vst"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -296,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple nodeJs Websocket VOIP application without the use of WebRTC",
+            "homepage": null,
             "id": 37807513,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-11-07T14:54:21Z",
+            "open_issues": 1,
             "owner": "cracker0dks",
             "repo": "nodeJsVoip",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -312,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ORLANDOviols consort box",
+            "homepage": null,
             "id": 258585633,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-06-28T08:57:28Z",
+            "open_issues": 0,
             "owner": "gisogrimm",
             "repo": "ovbox",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -328,12 +478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front-end GUI for JACK and JackTrip for people using it for realtime music collaboration",
+            "homepage": null,
             "id": 316863980,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-04-01T19:03:46Z",
+            "open_issues": 8,
             "owner": "vicwomg",
             "repo": "jamtrip",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -344,12 +499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 286161030,
             "language": "Max",
+            "license": "MIT",
             "last_commit": "2024-07-24T01:25:23Z",
+            "open_issues": 0,
             "owner": "damonholzborn",
             "repo": "Quaxtrip",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -360,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stream audio between DAWs across the internet",
+            "homepage": null,
             "id": 250614595,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2020-04-17T23:19:36Z",
+            "open_issues": 1,
             "owner": "sauraen",
             "repo": "HQStreamer2",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -376,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Use a Raspberry Pi and audio shield to connect musicians, or poets, together from distance locations.",
+            "homepage": null,
             "id": 249845387,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-12-11T11:35:12Z",
+            "open_issues": 19,
             "owner": "rbultman",
             "repo": "raspberry-jam",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -392,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quacktrip v0.5 plugin",
+            "homepage": "http://fdch.github.io/Quack4",
             "id": 281797148,
             "language": "Max",
+            "license": null,
             "last_commit": "2020-08-07T02:24:36Z",
+            "open_issues": 0,
             "owner": "fdch",
             "repo": "Quack4",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -413,12 +588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for \"Żywe Radio\" - radio using icecast to broadcast stream of music performed live ",
+                "homepage": null,
                 "id": 247354557,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2020-03-15T00:14:32Z",
+                "open_issues": 0,
                 "owner": "kfirmanty",
                 "repo": "zywe-radio",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:19:43.682Z"
             }
@@ -436,12 +616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the old 1.x L2Ork version of Pure-Data real-time digital signal processing language developed and maintained at DISIS, Virginia Tech. It has been superseded by the cross-platform 2.x version of Pd-l2Ork found at https://github.com/pd-l2ork/pd-l2ork",
+                "homepage": "http://l2ork.music.vt.edu",
                 "id": 2617145,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-08-22T05:16:57Z",
+                "open_issues": 15,
                 "owner": "pd-l2ork",
                 "repo": "pd",
-                "stars": 127
+                "stars": 127,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:19:43.682Z"
             }
@@ -460,12 +645,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of NewTek NDI protocol for Cycling 74's Max",
+            "homepage": null,
             "id": 122133619,
             "language": "C",
+            "license": "LGPL-3.0",
             "last_commit": "2026-01-16T11:14:46Z",
+            "open_issues": 10,
             "owner": "pixsper",
             "repo": "jit.ndi",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "maxmsp",
+              "ndi",
+              "streaming-audio",
+              "streaming-video",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -481,12 +677,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This free app, created for you by TroikaTronix/Isadora, allows you to send a Syphon video stream to a compatible application that supports video input from a webcam.",
+                "homepage": null,
                 "id": 275105026,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2026-07-14T10:10:16Z",
+                "open_issues": 2,
                 "owner": "TroikaTronix",
                 "repo": "Syphon-Virtual-Webcam",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:19:43.682Z"
             }
@@ -505,12 +706,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and open source streaming software built on OBS and Electron.",
+            "homepage": "https://streamlabs.com",
             "id": 108469351,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:06:25Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T23:21:44Z",
+            "open_issues": 42,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4843
+            "stars": 4843,
+            "topics": [
+              "electron",
+              "facebook",
+              "react",
+              "streaming",
+              "streamlabs",
+              "twitch",
+              "typescript",
+              "vue",
+              "vuejs",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -521,12 +738,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.",
+            "homepage": "https://p2p.mirotalk.com",
             "id": 326059244,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T21:33:42Z",
+            "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4710
+            "stars": 4710,
+            "topics": [
+              "collaboration",
+              "conferencing",
+              "decentralized",
+              "docker-image",
+              "hacktoberfest",
+              "html-css-javascript",
+              "javascript",
+              "livechat",
+              "meeting",
+              "mirotalk",
+              "p2p",
+              "peer-to-peer",
+              "screensharing",
+              "video-call",
+              "video-chat",
+              "video-conferencing",
+              "webrtc",
+              "webrtc-call",
+              "webrtc-video",
+              "whiteboard"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -537,12 +780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for timing related libraries managed by webtiming (multi-device timing CG)",
+            "homepage": null,
             "id": 46489101,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2025-01-15T08:44:08Z",
+            "open_issues": 13,
             "owner": "webtiming",
             "repo": "timingsrc",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -553,12 +801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://livelab.app",
             "id": 55853416,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-12-10T22:44:01Z",
+            "open_issues": 27,
             "owner": "ojack",
             "repo": "LiveLab",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         }
@@ -575,12 +828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fourhands is an online jamming platform.",
+            "homepage": "https://fourhands.jminjie.com",
             "id": 325649673,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-05T05:01:26Z",
+            "open_issues": 4,
             "owner": "jminjie",
             "repo": "fourhands",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -591,12 +849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Archival repo. Node server and p5.js client for a networked MIDI sequencer. ",
+            "homepage": null,
             "id": 607488205,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-12T06:41:03Z",
+            "open_issues": 0,
             "owner": "samcar17",
             "repo": "TR-P2P",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         }
@@ -613,12 +876,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of tools for using multimedia in the network",
+            "homepage": null,
             "id": 255249365,
             "language": "TeX",
+            "license": "CC0-1.0",
             "last_commit": "2026-03-13T15:01:51Z",
+            "open_issues": 1,
             "owner": "omarcostahamido",
             "repo": "awesome-networked-media",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "networked-music-performance"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -629,12 +901,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of tools for using multimedia in the network",
+            "homepage": null,
             "id": 255249365,
             "language": "TeX",
+            "license": "CC0-1.0",
             "last_commit": "2026-03-13T15:01:51Z",
+            "open_issues": 1,
             "owner": "omarcostahamido",
             "repo": "awesome-networked-media",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "networked-music-performance"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         },
@@ -645,12 +926,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of tools for using multimedia in the network",
+            "homepage": null,
             "id": 255249365,
             "language": "TeX",
+            "license": "CC0-1.0",
             "last_commit": "2026-03-13T15:01:51Z",
+            "open_issues": 1,
             "owner": "omarcostahamido",
             "repo": "awesome-networked-media",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "networked-music-performance"
+            ]
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
         }
@@ -659,15 +949,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:19:43.682Z",
+    "last_updated": "2026-08-29T05:02:18.942Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of tools for using multimedia in the network",
+      "homepage": null,
       "id": 255249365,
       "language": "TeX",
+      "license": "CC0-1.0",
       "last_commit": "2026-03-13T15:01:51Z",
+      "open_issues": 1,
       "owner": "omarcostahamido",
       "repo": "awesome-networked-media",
-      "stars": 81
+      "stars": 81,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "networked-music-performance"
+      ]
     },
     "original_repository_sha": "67055a0ef59294c04fe60c27620bdaae3b8fa548",
     "enhanced_repository": "enhansome/enhansome-networked-media",
