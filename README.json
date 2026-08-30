@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19655,
+            "stars": 19656,
             "topics": [
               "audio",
               "driver",
@@ -99,7 +99,7 @@
             "open_issues": 47,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 706,
+            "stars": 707,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -297,7 +297,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:43:18Z",
-            "open_issues": 183,
+            "open_issues": 184,
             "owner": "jamulussoftware",
             "repo": "jamulus",
             "stars": 1125,
@@ -348,7 +348,7 @@
             "id": 32189587,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T15:42:02Z",
+            "last_commit": "2026-08-30T00:38:49Z",
             "open_issues": 41,
             "owner": "jacktrip",
             "repo": "jacktrip",
@@ -738,22 +738,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.",
+            "description": "🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whiteboard, recording, and collaboration.",
             "homepage": "https://p2p.mirotalk.com",
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T13:05:45Z",
+            "last_commit": "2026-08-30T10:59:40Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4710,
+            "stars": 4712,
             "topics": [
               "collaboration",
               "conferencing",
               "decentralized",
               "docker-image",
-              "hacktoberfest",
               "html-css-javascript",
               "javascript",
               "livechat",
@@ -765,6 +764,7 @@
               "video-call",
               "video-chat",
               "video-conferencing",
+              "web-rtc",
               "webrtc",
               "webrtc-call",
               "webrtc-video",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:57:53.490Z",
+    "last_updated": "2026-08-30T13:56:35.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
