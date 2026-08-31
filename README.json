@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19656,
+            "stars": 19659,
             "topics": [
               "audio",
               "driver",
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2019,
+            "stars": 2020,
             "topics": [
               "asio",
               "asio-drivers",
@@ -99,7 +99,7 @@
             "open_issues": 47,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 707,
+            "stars": 708,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -296,11 +296,11 @@
             "id": 177287710,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T17:43:18Z",
-            "open_issues": 184,
+            "last_commit": "2026-08-31T15:25:24Z",
+            "open_issues": 182,
             "owner": "jamulussoftware",
             "repo": "jamulus",
-            "stars": 1125,
+            "stars": 1128,
             "topics": [
               "audio",
               "internet",
@@ -348,7 +348,7 @@
             "id": 32189587,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T00:38:49Z",
+            "last_commit": "2026-08-30T22:11:42Z",
             "open_issues": 41,
             "owner": "jacktrip",
             "repo": "jacktrip",
@@ -711,8 +711,8 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T08:54:05Z",
-            "open_issues": 41,
+            "last_commit": "2026-08-31T15:44:27Z",
+            "open_issues": 43,
             "owner": "streamlabs",
             "repo": "desktop",
             "stars": 4843,
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T10:59:40Z",
+            "last_commit": "2026-08-31T15:44:52Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4712,
+            "stars": 4714,
             "topics": [
               "collaboration",
               "conferencing",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:56:35.641Z",
+    "last_updated": "2026-08-31T16:19:45.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
