@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19689,
+            "stars": 19693,
             "topics": [
               "audio",
               "driver",
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2023,
+            "stars": 2022,
             "topics": [
               "asio",
               "asio-drivers",
@@ -296,8 +296,8 @@
             "id": 177287710,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T20:10:34Z",
-            "open_issues": 179,
+            "last_commit": "2026-09-04T17:43:38Z",
+            "open_issues": 178,
             "owner": "jamulussoftware",
             "repo": "jamulus",
             "stars": 1129,
@@ -711,11 +711,11 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T04:17:43Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-05T01:44:17Z",
+            "open_issues": 48,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4844,
+            "stars": 4845,
             "topics": [
               "electron",
               "facebook",
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T11:50:47Z",
+            "last_commit": "2026-09-05T10:48:04Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4716,
+            "stars": 4718,
             "topics": [
               "collaboration",
               "conferencing",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:52:41.549Z",
+    "last_updated": "2026-09-05T11:57:56.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
