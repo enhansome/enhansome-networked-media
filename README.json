@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19707,
+            "stars": 19714,
             "topics": [
               "audio",
               "driver",
@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "mattingalls",
             "repo": "Soundflower",
-            "stars": 9048,
+            "stars": 9045,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -99,7 +99,7 @@
             "open_issues": 47,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 713,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -296,8 +296,8 @@
             "id": 177287710,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T21:47:45Z",
-            "open_issues": 179,
+            "last_commit": "2026-09-08T21:31:55Z",
+            "open_issues": 176,
             "owner": "jamulussoftware",
             "repo": "jamulus",
             "stars": 1130,
@@ -352,7 +352,7 @@
             "open_issues": 41,
             "owner": "jacktrip",
             "repo": "jacktrip",
-            "stars": 1052,
+            "stars": 1053,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -394,7 +394,7 @@
             "open_issues": 22,
             "owner": "jacktrip-webrtc",
             "repo": "jacktrip-webrtc",
-            "stars": 396,
+            "stars": 395,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -711,11 +711,11 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T00:09:45Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-09T05:17:36Z",
+            "open_issues": 50,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4847,
+            "stars": 4846,
             "topics": [
               "electron",
               "facebook",
@@ -747,7 +747,7 @@
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4728,
+            "stars": 4730,
             "topics": [
               "collaboration",
               "conferencing",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:00:25.583Z",
+    "last_updated": "2026-09-09T13:06:15.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
