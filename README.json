@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19714,
+            "stars": 19722,
             "topics": [
               "audio",
               "driver",
@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "mattingalls",
             "repo": "Soundflower",
-            "stars": 9045,
+            "stars": 9044,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2026,
+            "stars": 2028,
             "topics": [
               "asio",
               "asio-drivers",
@@ -99,7 +99,7 @@
             "open_issues": 47,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 715,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -296,7 +296,7 @@
             "id": 177287710,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T21:31:55Z",
+            "last_commit": "2026-09-09T16:58:27Z",
             "open_issues": 176,
             "owner": "jamulussoftware",
             "repo": "jamulus",
@@ -369,8 +369,8 @@
             "id": 202019957,
             "language": "JavaScript",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-03T00:38:51Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-10T03:03:05Z",
+            "open_issues": 17,
             "owner": "open-easyrtc",
             "repo": "open-easyrtc",
             "stars": 412,
@@ -711,11 +711,11 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T05:17:36Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-10T12:01:14Z",
+            "open_issues": 54,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4846,
+            "stars": 4848,
             "topics": [
               "electron",
               "facebook",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:06:15.339Z",
+    "last_updated": "2026-09-10T13:04:06.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
