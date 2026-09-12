@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-11T23:33:14Z",
-            "open_issues": 12,
+            "open_issues": 9,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19734,
+            "stars": 19738,
             "topics": [
               "audio",
               "driver",
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2028,
+            "stars": 2029,
             "topics": [
               "asio",
               "asio-drivers",
@@ -96,7 +96,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-08-26T08:08:36Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "rncbc",
             "repo": "qpwgraph",
             "stars": 717,
@@ -297,7 +297,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T19:22:14Z",
-            "open_issues": 177,
+            "open_issues": 176,
             "owner": "jamulussoftware",
             "repo": "jamulus",
             "stars": 1132,
@@ -711,8 +711,8 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T23:14:08Z",
-            "open_issues": 55,
+            "last_commit": "2026-09-11T17:11:21Z",
+            "open_issues": 53,
             "owner": "streamlabs",
             "repo": "desktop",
             "stars": 4849,
@@ -747,7 +747,7 @@
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4729,
+            "stars": 4730,
             "topics": [
               "collaboration",
               "conferencing",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:58:26.071Z",
+    "last_updated": "2026-09-12T12:19:21.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
