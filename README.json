@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-11T23:33:14Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19738,
+            "stars": 19749,
             "topics": [
               "audio",
               "driver",
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2029,
+            "stars": 2031,
             "topics": [
               "asio",
               "asio-drivers",
@@ -296,7 +296,7 @@
             "id": 177287710,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T19:22:14Z",
+            "last_commit": "2026-09-13T13:02:12Z",
             "open_issues": 176,
             "owner": "jamulussoftware",
             "repo": "jamulus",
@@ -352,7 +352,7 @@
             "open_issues": 41,
             "owner": "jacktrip",
             "repo": "jacktrip",
-            "stars": 1053,
+            "stars": 1054,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -711,7 +711,7 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T17:11:21Z",
+            "last_commit": "2026-09-13T10:49:26Z",
             "open_issues": 53,
             "owner": "streamlabs",
             "repo": "desktop",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:19:21.879Z",
+    "last_updated": "2026-09-13T13:25:01.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
