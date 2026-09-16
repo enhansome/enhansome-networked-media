@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19760,
+            "stars": 19763,
             "topics": [
               "audio",
               "driver",
@@ -99,7 +99,7 @@
             "open_issues": 48,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 717,
+            "stars": 718,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -466,7 +466,7 @@
             "open_issues": 0,
             "owner": "gisogrimm",
             "repo": "ovbox",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -711,11 +711,11 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T09:12:09Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-16T12:06:39Z",
+            "open_issues": 41,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4849,
+            "stars": 4851,
             "topics": [
               "electron",
               "facebook",
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T07:49:10Z",
+            "last_commit": "2026-09-16T08:44:51Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4736,
+            "stars": 4737,
             "topics": [
               "collaboration",
               "conferencing",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:48:26.317Z",
+    "last_updated": "2026-09-16T13:40:47.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
