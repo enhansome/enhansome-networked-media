@@ -12,10 +12,10 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Audio Routing
 
-* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,763 | 🐛 10 | 🌐 C | 📅 2026-08-11 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
+* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,772 | 🐛 10 | 🌐 C | 📅 2026-08-11 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
 * [Soundflower](https://github.com/mattingalls/Soundflower) ⭐ 9,043 | 🐛 7 | 🌐 Objective-C | 📅 2024-12-07 (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
 * [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,031 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
-* [qpwgraph](https://github.com/rncbc/qpwgraph) ⭐ 718 | 🐛 48 | 🌐 C++ | 📅 2026-08-26 (linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.
+* [qpwgraph](https://github.com/rncbc/qpwgraph) ⭐ 720 | 🐛 48 | 🌐 C++ | 📅 2026-08-26 (linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.
 * [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) ⭐ 617 | 🐛 20 | 🌐 C++ | 📅 2022-03-25 (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers.
 * [Node.JS JACK-connector](https://github.com/unclechu/node-jack-connector) ⭐ 52 | 🐛 14 | 🌐 C++ | 📅 2023-06-09 - Bindings JACK-Audio-Connection-Kit for Node.JS
 * [JackBridge](https://github.com/madhatter68/JackRouter) ⭐ 39 | 🐛 5 | 🌐 C++ | 📅 2020-08-15 (mac-only) - an alternative to jackrouter for MacOS which acts as virtual audio interface (currently 2in-4out) connected to Jackaudio server directly.
@@ -110,7 +110,7 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Video Networking
 
-* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,851 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-16 - open source streaming software built on OBS and Electron.
+* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,851 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-17 - open source streaming software built on OBS and Electron.
 * [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) ⭐ 4,737 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-16 - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
 * [timingsrc](https://github.com/webtiming/timingsrc) ⭐ 163 | 🐛 13 | 🌐 JavaScript | 📅 2025-01-15 - Source code for timing related libraries managed by webtiming (multi-device timing CG)
 * [Live Lab](https://github.com/ojack/LiveLab) ⭐ 56 | 🐛 27 | 🌐 JavaScript | 📅 2025-12-10
@@ -189,4 +189,4 @@ BibTeX | [here](https://github.com/omarcostahamido/awesome-networked-media/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
