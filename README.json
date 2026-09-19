@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19776,
+            "stars": 19778,
             "topics": [
               "audio",
               "driver",
@@ -96,10 +96,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-08-26T08:08:36Z",
-            "open_issues": 48,
+            "open_issues": 50,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 720,
+            "stars": 721,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -296,8 +296,8 @@
             "id": 177287710,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T18:24:27Z",
-            "open_issues": 179,
+            "last_commit": "2026-09-18T17:45:01Z",
+            "open_issues": 180,
             "owner": "jamulussoftware",
             "repo": "jamulus",
             "stars": 1133,
@@ -415,7 +415,7 @@
             "open_issues": 164,
             "owner": "elieserdejesus",
             "repo": "JamTaba",
-            "stars": 257,
+            "stars": 256,
             "topics": [
               "audio-unit",
               "jam",
@@ -711,11 +711,11 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T08:51:31Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-19T02:12:06Z",
+            "open_issues": 45,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4850,
+            "stars": 4851,
             "topics": [
               "electron",
               "facebook",
@@ -747,7 +747,7 @@
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4739,
+            "stars": 4742,
             "topics": [
               "collaboration",
               "conferencing",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:06:20.345Z",
+    "last_updated": "2026-09-19T12:38:59.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
