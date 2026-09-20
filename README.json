@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19778,
+            "stars": 19783,
             "topics": [
               "audio",
               "driver",
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2033,
+            "stars": 2034,
             "topics": [
               "asio",
               "asio-drivers",
@@ -95,11 +95,11 @@
             "id": 502854931,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-26T08:08:36Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-19T13:59:38Z",
+            "open_issues": 48,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 721,
+            "stars": 720,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -297,7 +297,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-18T17:45:01Z",
-            "open_issues": 180,
+            "open_issues": 181,
             "owner": "jamulussoftware",
             "repo": "jamulus",
             "stars": 1133,
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-17T22:16:14Z",
+            "last_commit": "2026-09-20T00:59:34Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4742,
+            "stars": 4745,
             "topics": [
               "collaboration",
               "conferencing",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:38:59.563Z",
+    "last_updated": "2026-09-20T13:10:42.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
