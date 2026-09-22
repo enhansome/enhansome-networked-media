@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19791,
+            "stars": 19794,
             "topics": [
               "audio",
               "driver",
@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "mattingalls",
             "repo": "Soundflower",
-            "stars": 9042,
+            "stars": 9041,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2034,
+            "stars": 2036,
             "topics": [
               "asio",
               "asio-drivers",
@@ -99,7 +99,7 @@
             "open_issues": 48,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 720,
+            "stars": 721,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -415,7 +415,7 @@
             "open_issues": 164,
             "owner": "elieserdejesus",
             "repo": "JamTaba",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "audio-unit",
               "jam",
@@ -711,8 +711,8 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T02:12:06Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-22T02:26:14Z",
+            "open_issues": 47,
             "owner": "streamlabs",
             "repo": "desktop",
             "stars": 4852,
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-21T08:07:11Z",
+            "last_commit": "2026-09-21T18:20:48Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4747,
+            "stars": 4748,
             "topics": [
               "collaboration",
               "conferencing",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:17:03.287Z",
+    "last_updated": "2026-09-22T13:36:33.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
