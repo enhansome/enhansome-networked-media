@@ -12,9 +12,9 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Audio Routing
 
-* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,810 | 🐛 11 | 🌐 C | 📅 2026-09-22 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
+* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,818 | 🐛 11 | 🌐 C | 📅 2026-09-22 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
 * [Soundflower](https://github.com/mattingalls/Soundflower) ⭐ 9,041 | 🐛 7 | 🌐 Objective-C | 📅 2024-12-07 (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
-* [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,036 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
+* [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,037 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
 * [qpwgraph](https://github.com/rncbc/qpwgraph) ⭐ 722 | 🐛 48 | 🌐 C++ | 📅 2026-09-19 (linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.
 * [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) ⭐ 618 | 🐛 20 | 🌐 C++ | 📅 2022-03-25 (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers.
 * [Node.JS JACK-connector](https://github.com/unclechu/node-jack-connector) ⭐ 52 | 🐛 14 | 🌐 C++ | 📅 2023-06-09 - Bindings JACK-Audio-Connection-Kit for Node.JS
@@ -44,7 +44,7 @@ This is a list of real-time software tools for routing audio and video streams b
     jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAKym28To)] \[[rbedgar](https://www.robertedgar.com/themencode-pdf-viewer-sc/?tnc_pvfw=ZmlsZT1odHRwczovL3d3dy5yb2JlcnRlZGdhci5jb20vQXJ0aWNsZXMvSkFDS1RSSVBfTUFDX0RPXzgtNC0yMDIwLXMucGRmJnNldHRpbmdzPTExMTExMDExMTExMTExMTExMDAmbGFuZz1lbi1VUw==#page=&;zoom=auto\&pagemode=none)]
 * [EasyRTC](https://github.com/open-easyrtc/open-easyrtc) ⭐ 412 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-10 - WebRTC based implementation, originally forked from [priologic](https://github.com/priologic/).
   * \[[website](https://easyrtc.com/products/easyrtc/)]
-* [JackTrip WebRTC](https://github.com/jacktrip-webrtc/jacktrip-webrtc) ⭐ 395 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-13 (TBA) - JackTrip WebRTC is an HTML5 implementation of Jacktrip for the web browser.
+* [JackTrip WebRTC](https://github.com/jacktrip-webrtc/jacktrip-webrtc) ⭐ 394 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-13 (TBA) - JackTrip WebRTC is an HTML5 implementation of Jacktrip for the web browser.
 * [JamTaba 2](https://github.com/elieserdejesus/JamTaba/) ⭐ 257 | 🐛 164 | 🌐 C++ | 📅 2022-02-08 - play online music jam sessions with musicians around the world using ninjam servers.
   * \[[lines](https://llllllll.co/t/ninjam-network-jam-session/7767)]
 * [nodeJsVoip](https://github.com/cracker0dks/nodeJsVoip) ⭐ 101 | 🐛 1 | 🌐 JavaScript | 📅 2019-11-07 - A simple nodeJs Websocket VOIP application without the use of WebRTC
@@ -110,8 +110,8 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Video Networking
 
-* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,854 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-24 - open source streaming software built on OBS and Electron.
-* [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) ⭐ 4,748 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-24 - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
+* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,852 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-25 - open source streaming software built on OBS and Electron.
+* [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) ⭐ 4,748 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-25 - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
 * [timingsrc](https://github.com/webtiming/timingsrc) ⭐ 163 | 🐛 13 | 🌐 JavaScript | 📅 2025-01-15 - Source code for timing related libraries managed by webtiming (multi-device timing CG)
 * [Live Lab](https://github.com/ojack/LiveLab) ⭐ 56 | 🐛 27 | 🌐 JavaScript | 📅 2025-12-10
   * \[[culturehub](https://www.culturehub.org/livelab)] \[[comparing2zoom](https://docs.google.com/spreadsheets/d/1jJNNtkoSH1FunCPHS2Z05MzdUMkU_KMe71uPimGF94Q/edit#gid=0)]
@@ -189,4 +189,4 @@ BibTeX | [here](https://github.com/omarcostahamido/awesome-networked-media/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
