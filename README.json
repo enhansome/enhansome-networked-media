@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19832,
+            "stars": 19840,
             "topics": [
               "audio",
               "driver",
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2039,
+            "stars": 2041,
             "topics": [
               "asio",
               "asio-drivers",
@@ -711,11 +711,11 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T16:02:12Z",
-            "open_issues": 80,
+            "last_commit": "2026-09-29T13:50:09Z",
+            "open_issues": 77,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4854,
+            "stars": 4855,
             "topics": [
               "electron",
               "facebook",
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T15:45:15Z",
+            "last_commit": "2026-09-29T14:45:55Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4754,
+            "stars": 4757,
             "topics": [
               "collaboration",
               "conferencing",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T16:57:18.617Z",
+    "last_updated": "2026-09-29T15:00:51.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
