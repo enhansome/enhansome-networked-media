@@ -12,9 +12,9 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Audio Routing
 
-* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,855 | 🐛 11 | 🌐 C | 📅 2026-09-22 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
-* [Soundflower](https://github.com/mattingalls/Soundflower) ⭐ 9,040 | 🐛 7 | 🌐 Objective-C | 📅 2024-12-07 (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
-* [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,045 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
+* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,858 | 🐛 11 | 🌐 C | 📅 2026-09-22 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
+* [Soundflower](https://github.com/mattingalls/Soundflower) ⭐ 9,039 | 🐛 7 | 🌐 Objective-C | 📅 2024-12-07 (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
+* [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,046 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
 * [qpwgraph](https://github.com/rncbc/qpwgraph) ⭐ 727 | 🐛 48 | 🌐 C++ | 📅 2026-09-19 (linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.
 * [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) ⭐ 618 | 🐛 20 | 🌐 C++ | 📅 2022-03-25 (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers.
 * [Node.JS JACK-connector](https://github.com/unclechu/node-jack-connector) ⭐ 52 | 🐛 14 | 🌐 C++ | 📅 2023-06-09 - Bindings JACK-Audio-Connection-Kit for Node.JS
@@ -38,7 +38,7 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Audio Networking
 
-* [Jamulus](https://github.com/corrados/jamulus) ⭐ 1,137 | 🐛 183 | 🌐 C | 📅 2026-10-01 - software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.
+* [Jamulus](https://github.com/corrados/jamulus) ⭐ 1,137 | 🐛 184 | 🌐 C | 📅 2026-10-02 - software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.
 * [Jacktrip](https://github.com/jacktrip/jacktrip) ⭐ 1,056 | 🐛 41 | 🌐 C++ | 📅 2026-09-13 - multi-machine audio system used for network music performance over the Internet, that may offer the best latency using uncompressed audio.
   * resources: \[[ccrma](https://ccrma.stanford.edu/software/jacktrip/)] \[[kadenze](https://www.kadenze.com/courses/online-jamming-and-concert-technology-x/info)] \[[chrischafe](http://chrischafe.net/online-jamming-and-concert-technology-online-course/)] \[[mdessen](https://mdessen.com/portfolio/networked-music-performance-resources/)] \[[dessen](https://docs.google.com/document/d/1YLX8NatB_Ktdr24LyVg7h_P3zwG1lh1D0A0e733mCYo/edit)] \[[loveridge](https://docs.google.com/document/d/18pbu2xQRv521NKvHuYHjIVXRcLFqcDsqYnfKixyuyGg/edit)] \[[jacktrip-users](https://groups.google.com/forum/#!forum/jacktrip-users)] \[[och](https://github.com/omarcostahamido/One-Quick-Solution_Patches/tree/master/Other) ⭐ 5 | 🐛 1 | 🌐 Max | 📅 2025-02-08] \[[oconnor](https://www.haven2.com/index.php/archives/configuring-starting-and-running-a-multi-client-jacktrip-server)] \[[synthia](https://www.youtube.com/watch?v=9yGQ23EbBTw\&list=PL1PiOF-Vo5KA-xxBue6BjdrEQAXOzDlNM)] \[[
     jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAKym28To)] \[[rbedgar](https://www.robertedgar.com/themencode-pdf-viewer-sc/?tnc_pvfw=ZmlsZT1odHRwczovL3d3dy5yb2JlcnRlZGdhci5jb20vQXJ0aWNsZXMvSkFDS1RSSVBfTUFDX0RPXzgtNC0yMDIwLXMucGRmJnNldHRpbmdzPTExMTExMDExMTExMTExMTExMDAmbGFuZz1lbi1VUw==#page=&;zoom=auto\&pagemode=none)]
@@ -110,7 +110,7 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Video Networking
 
-* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,855 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-02 - open source streaming software built on OBS and Electron.
+* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,855 | 🐛 80 | 🌐 TypeScript | 📅 2026-10-03 - open source streaming software built on OBS and Electron.
 * [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) ⭐ 4,766 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02 - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
 * [timingsrc](https://github.com/webtiming/timingsrc) ⭐ 163 | 🐛 13 | 🌐 JavaScript | 📅 2025-01-15 - Source code for timing related libraries managed by webtiming (multi-device timing CG)
 * [Live Lab](https://github.com/ojack/LiveLab) ⭐ 56 | 🐛 27 | 🌐 JavaScript | 📅 2025-12-10
@@ -175,18 +175,18 @@ This is a list of real-time software tools for routing audio and video streams b
 <p>
   <details><summary>Feel free to cite this:</summary>
 
-| style        | reference                                                                                                                                                                                                                            |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| MLA 8th      | Hamido, Omar Costa, and Michael Dessen and Guillaume Pellerin and Jules Penuchot. Awesome Networked Media. 2020. 2020. GitHub, <https://github.com/omarcostahamido/awesome-networked-media> ⭐ 81 \| 🐛 1 \| 🌐 TeX \| 📅 2026-03-13. |
-| APA 7th      | Hamido, O. C., & Dessen, M., & Pellerin, G., & Penuchot, J. (2020). Awesome Networked Media. <https://github.com/omarcostahamido/awesome-networked-media> ⭐ 81 \| 🐛 1 \| 🌐 TeX \| 📅 2026-03-13 (Original work published 2020)     |
-| Chicago 17th | Hamido, Omar Costa, and Michael Dessen, and Guillaume Pellerin, and Jules Penuchot. Awesome Networked Media, 2020. <https://github.com/omarcostahamido/awesome-networked-media> ⭐ 81 \| 🐛 1 \| 🌐 TeX \| 📅 2026-03-13.             |
-| IEEE         | \[1]O. C. Hamido and M. Dessen and G. Pellerin and J. Penuchot, Awesome Networked Media. 2020.                                                                                                                                       |
+| style        | reference                                                                                                                                                                                    |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MLA 8th      | Hamido, Omar Costa, and Michael Dessen and Guillaume Pellerin and Jules Penuchot. Awesome Networked Media. 2020. 2020. GitHub, <https://github.com/omarcostahamido/awesome-networked-media>. |
+| APA 7th      | Hamido, O. C., & Dessen, M., & Pellerin, G., & Penuchot, J. (2020). Awesome Networked Media. <https://github.com/omarcostahamido/awesome-networked-media> (Original work published 2020)     |
+| Chicago 17th | Hamido, Omar Costa, and Michael Dessen, and Guillaume Pellerin, and Jules Penuchot. Awesome Networked Media, 2020. <https://github.com/omarcostahamido/awesome-networked-media>.             |
+| IEEE         | \[1]O. C. Hamido and M. Dessen and G. Pellerin and J. Penuchot, Awesome Networked Media. 2020.                                                                                               |
 
-BibTeX | [here](https://github.com/omarcostahamido/awesome-networked-media/blob/master/awesome%20networked%20media.bib) ⭐ 81 | 🐛 1 | 🌐 TeX | 📅 2026-03-13
+BibTeX | [here](https://github.com/omarcostahamido/awesome-networked-media/blob/master/awesome%20networked%20media.bib)
 
   </details>
 </p>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
