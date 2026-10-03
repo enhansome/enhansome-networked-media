@@ -12,11 +12,11 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Audio Routing
 
-* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,858 | 🐛 11 | 🌐 C | 📅 2026-09-22 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
+* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,859 | 🐛 11 | 🌐 C | 📅 2026-09-22 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
 * [Soundflower](https://github.com/mattingalls/Soundflower) ⭐ 9,039 | 🐛 7 | 🌐 Objective-C | 📅 2024-12-07 (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
-* [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,046 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
+* [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,047 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
 * [qpwgraph](https://github.com/rncbc/qpwgraph) ⭐ 727 | 🐛 48 | 🌐 C++ | 📅 2026-09-19 (linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.
-* [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) ⭐ 618 | 🐛 20 | 🌐 C++ | 📅 2022-03-25 (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers.
+* [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) ⭐ 617 | 🐛 20 | 🌐 C++ | 📅 2022-03-25 (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers.
 * [Node.JS JACK-connector](https://github.com/unclechu/node-jack-connector) ⭐ 52 | 🐛 14 | 🌐 C++ | 📅 2023-06-09 - Bindings JACK-Audio-Connection-Kit for Node.JS
 * [JackBridge](https://github.com/madhatter68/JackRouter) ⭐ 40 | 🐛 5 | 🌐 C++ | 📅 2020-08-15 (mac-only) - an alternative to jackrouter for MacOS which acts as virtual audio interface (currently 2in-4out) connected to Jackaudio server directly.
 * [simplejack](https://github.com/mildsunrise/simplejack) ⭐ 13 | 🐛 1 | 🌐 C++ | 📅 2014-10-20 - This Nodejs module enables you to register simple JACK clients.
