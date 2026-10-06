@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19875,
+            "stars": 19877,
             "topics": [
               "audio",
               "driver",
@@ -715,7 +715,7 @@
             "open_issues": 76,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4855,
+            "stars": 4856,
             "topics": [
               "electron",
               "facebook",
@@ -747,7 +747,7 @@
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4767,
+            "stars": 4769,
             "topics": [
               "collaboration",
               "conferencing",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:03:01.196Z",
+    "last_updated": "2026-10-06T15:23:39.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
