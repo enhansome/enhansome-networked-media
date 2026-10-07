@@ -15,11 +15,11 @@
             "id": 211381291,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T22:16:02Z",
+            "last_commit": "2026-10-07T13:25:25Z",
             "open_issues": 11,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19877,
+            "stars": 19879,
             "topics": [
               "audio",
               "driver",
@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "mattingalls",
             "repo": "Soundflower",
-            "stars": 9039,
+            "stars": 9038,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2046,
+            "stars": 2047,
             "topics": [
               "asio",
               "asio-drivers",
@@ -99,7 +99,7 @@
             "open_issues": 48,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 727,
+            "stars": 729,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -296,8 +296,8 @@
             "id": 177287710,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T17:44:16Z",
-            "open_issues": 185,
+            "last_commit": "2026-10-06T17:09:54Z",
+            "open_issues": 183,
             "owner": "jamulussoftware",
             "repo": "jamulus",
             "stars": 1137,
@@ -711,11 +711,11 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T01:42:30Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-07T15:29:09Z",
+            "open_issues": 77,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4856,
+            "stars": 4855,
             "topics": [
               "electron",
               "facebook",
@@ -743,7 +743,7 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T01:32:51Z",
+            "last_commit": "2026-10-06T15:36:11Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:23:39.607Z",
+    "last_updated": "2026-10-07T15:43:05.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
