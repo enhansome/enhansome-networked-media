@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19898,
+            "stars": 19902,
             "topics": [
               "audio",
               "driver",
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2052,
+            "stars": 2054,
             "topics": [
               "asio",
               "asio-drivers",
@@ -271,7 +271,7 @@
                 "open_issues": 41,
                 "owner": "jackaudio",
                 "repo": "jackaudio.github.com",
-                "stars": 482,
+                "stars": 483,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:19:43.682Z"
@@ -300,7 +300,7 @@
             "open_issues": 180,
             "owner": "jamulussoftware",
             "repo": "jamulus",
-            "stars": 1138,
+            "stars": 1139,
             "topics": [
               "audio",
               "internet",
@@ -415,7 +415,7 @@
             "open_issues": 165,
             "owner": "elieserdejesus",
             "repo": "JamTaba",
-            "stars": 258,
+            "stars": 257,
             "topics": [
               "audio-unit",
               "jam",
@@ -711,8 +711,8 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T18:02:19Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-13T15:24:31Z",
+            "open_issues": 58,
             "owner": "streamlabs",
             "repo": "desktop",
             "stars": 4857,
@@ -743,7 +743,7 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T10:27:41Z",
+            "last_commit": "2026-10-13T15:05:03Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:08:30.118Z",
+    "last_updated": "2026-10-13T16:18:52.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
