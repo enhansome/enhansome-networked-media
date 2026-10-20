@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19936,
+            "stars": 19937,
             "topics": [
               "audio",
               "driver",
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2055,
+            "stars": 2056,
             "topics": [
               "asio",
               "asio-drivers",
@@ -99,7 +99,7 @@
             "open_issues": 49,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 734,
+            "stars": 738,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -271,7 +271,7 @@
                 "open_issues": 41,
                 "owner": "jackaudio",
                 "repo": "jackaudio.github.com",
-                "stars": 483,
+                "stars": 484,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:19:43.682Z"
@@ -711,8 +711,8 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T19:57:48Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-19T23:12:57Z",
+            "open_issues": 36,
             "owner": "streamlabs",
             "repo": "desktop",
             "stars": 4856,
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T11:36:46Z",
+            "last_commit": "2026-10-19T17:46:08Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4799,
+            "stars": 4800,
             "topics": [
               "collaboration",
               "conferencing",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:49:07.726Z",
+    "last_updated": "2026-10-20T13:47:25.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
