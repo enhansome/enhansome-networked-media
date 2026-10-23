@@ -12,10 +12,10 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Audio Routing
 
-* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,947 | 🐛 12 | 🌐 C | 📅 2026-10-07 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
+* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,954 | 🐛 12 | 🌐 C | 📅 2026-10-07 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
 * [Soundflower](https://github.com/mattingalls/Soundflower) ⭐ 9,036 | 🐛 7 | 🌐 Objective-C | 📅 2024-12-07 (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
 * [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,059 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
-* [qpwgraph](https://github.com/rncbc/qpwgraph) ⭐ 739 | 🐛 49 | 🌐 C++ | 📅 2026-09-19 (linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.
+* [qpwgraph](https://github.com/rncbc/qpwgraph) ⭐ 740 | 🐛 49 | 🌐 C++ | 📅 2026-10-23 (linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.
 * [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) ⭐ 618 | 🐛 20 | 🌐 C++ | 📅 2022-03-25 (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers.
 * [Node.JS JACK-connector](https://github.com/unclechu/node-jack-connector) ⭐ 52 | 🐛 14 | 🌐 C++ | 📅 2023-06-09 - Bindings JACK-Audio-Connection-Kit for Node.JS
 * [JackBridge](https://github.com/madhatter68/JackRouter) ⭐ 40 | 🐛 5 | 🌐 C++ | 📅 2020-08-15 (mac-only) - an alternative to jackrouter for MacOS which acts as virtual audio interface (currently 2in-4out) connected to Jackaudio server directly.
@@ -105,13 +105,13 @@ This is a list of real-time software tools for routing audio and video streams b
 * [Spout](https://spout.zeal.co/) (windows-only) - Realtime video sharing framework for Windows (similar to Syphon).
 * [Syphon](http://syphon.v002.info/) (mac-only) - Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in realtime.
 * [Syphon Virtual Webcam](https://community.troikatronix.com/topic/6742/syphon-virtual-webcam) (mac-only) - free, open-source app for macOS that routes Syphon video to a virtual web cam, allowing apps that don't offer Syphon input to receive a Syphon video signal.
-  * \[[github](https://github.com/TroikaTronix/Syphon-Virtual-Webcam) ⭐ 38 | 🐛 2 | 🌐 Objective-C | 📅 2026-07-14]
+  * \[[github](https://github.com/TroikaTronix/Syphon-Virtual-Webcam) ⭐ 37 | 🐛 2 | 🌐 Objective-C | 📅 2026-07-14]
 * [ZoomISO](https://www.liminalet.com/zoomiso) (mac-only) - export HD video streams from Zoom calls.
 
 ### Video Networking
 
-* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,858 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-22 - open source streaming software built on OBS and Electron.
-* [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) ⭐ 4,799 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-22 - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
+* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,858 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-23 - open source streaming software built on OBS and Electron.
+* [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) ⭐ 4,801 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-23 - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
 * [timingsrc](https://github.com/webtiming/timingsrc) ⭐ 163 | 🐛 13 | 🌐 JavaScript | 📅 2025-01-15 - Source code for timing related libraries managed by webtiming (multi-device timing CG)
 * [Live Lab](https://github.com/ojack/LiveLab) ⭐ 56 | 🐛 27 | 🌐 JavaScript | 📅 2025-12-10
   * \[[culturehub](https://www.culturehub.org/livelab)] \[[comparing2zoom](https://docs.google.com/spreadsheets/d/1jJNNtkoSH1FunCPHS2Z05MzdUMkU_KMe71uPimGF94Q/edit#gid=0)]
@@ -189,4 +189,4 @@ BibTeX | [here](https://github.com/omarcostahamido/awesome-networked-media/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

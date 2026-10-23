@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19947,
+            "stars": 19954,
             "topics": [
               "audio",
               "driver",
@@ -95,11 +95,11 @@
             "id": 502854931,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-19T13:59:38Z",
+            "last_commit": "2026-10-23T09:42:34Z",
             "open_issues": 49,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 739,
+            "stars": 740,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -686,7 +686,7 @@
                 "open_issues": 2,
                 "owner": "TroikaTronix",
                 "repo": "Syphon-Virtual-Webcam",
-                "stars": 38,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:19:43.682Z"
@@ -711,8 +711,8 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T10:56:21Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-23T00:45:35Z",
+            "open_issues": 31,
             "owner": "streamlabs",
             "repo": "desktop",
             "stars": 4858,
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T10:59:27Z",
+            "last_commit": "2026-10-23T09:10:06Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4799,
+            "stars": 4801,
             "topics": [
               "collaboration",
               "conferencing",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:01:17.403Z",
+    "last_updated": "2026-10-23T13:43:58.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
