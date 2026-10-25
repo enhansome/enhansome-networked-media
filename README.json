@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19960,
+            "stars": 19964,
             "topics": [
               "audio",
               "driver",
@@ -348,7 +348,7 @@
             "id": 32189587,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T23:55:42Z",
+            "last_commit": "2026-10-25T01:14:03Z",
             "open_issues": 40,
             "owner": "jacktrip",
             "repo": "jacktrip",
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T12:35:40Z",
+            "last_commit": "2026-10-25T09:49:37Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4803,
+            "stars": 4806,
             "topics": [
               "collaboration",
               "conferencing",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:52:36.784Z",
+    "last_updated": "2026-10-25T13:18:50.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
