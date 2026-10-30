@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 19984,
+            "stars": 19987,
             "topics": [
               "audio",
               "driver",
@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "mattingalls",
             "repo": "Soundflower",
-            "stars": 9037,
+            "stars": 9038,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -352,7 +352,7 @@
             "open_issues": 40,
             "owner": "jacktrip",
             "repo": "jacktrip",
-            "stars": 1057,
+            "stars": 1058,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -711,11 +711,11 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T15:24:38Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-30T01:30:14Z",
+            "open_issues": 45,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4860,
+            "stars": 4859,
             "topics": [
               "electron",
               "facebook",
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-28T19:12:36Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-30T11:10:45Z",
+            "open_issues": 2,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4813,
+            "stars": 4817,
             "topics": [
               "collaboration",
               "conferencing",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:27:42.130Z",
+    "last_updated": "2026-10-30T15:13:42.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
