@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 20028,
+            "stars": 20037,
             "topics": [
               "audio",
               "driver",
@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "mattingalls",
             "repo": "Soundflower",
-            "stars": 9033,
+            "stars": 9032,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2080,
+            "stars": 2081,
             "topics": [
               "asio",
               "asio-drivers",
@@ -394,7 +394,7 @@
             "open_issues": 22,
             "owner": "jacktrip-webrtc",
             "repo": "jacktrip-webrtc",
-            "stars": 394,
+            "stars": 395,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -711,11 +711,11 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T18:07:57Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-10T16:32:37Z",
+            "open_issues": 54,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4873,
+            "stars": 4874,
             "topics": [
               "electron",
               "facebook",
@@ -747,7 +747,7 @@
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4833,
+            "stars": 4835,
             "topics": [
               "collaboration",
               "conferencing",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:01:51.833Z",
+    "last_updated": "2026-11-10T16:33:33.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
