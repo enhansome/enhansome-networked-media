@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 20052,
+            "stars": 20057,
             "topics": [
               "audio",
               "driver",
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2084,
+            "stars": 2085,
             "topics": [
               "asio",
               "asio-drivers",
@@ -99,7 +99,7 @@
             "open_issues": 49,
             "owner": "rncbc",
             "repo": "qpwgraph",
-            "stars": 752,
+            "stars": 751,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:43.682Z"
@@ -296,8 +296,8 @@
             "id": 177287710,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T17:18:16Z",
-            "open_issues": 185,
+            "last_commit": "2026-11-13T17:42:47Z",
+            "open_issues": 186,
             "owner": "jamulussoftware",
             "repo": "jamulus",
             "stars": 1145,
@@ -711,8 +711,8 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T00:25:14Z",
-            "open_issues": 63,
+            "last_commit": "2026-11-13T23:35:49Z",
+            "open_issues": 65,
             "owner": "streamlabs",
             "repo": "desktop",
             "stars": 4874,
@@ -747,7 +747,7 @@
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4839,
+            "stars": 4843,
             "topics": [
               "collaboration",
               "conferencing",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:41:01.494Z",
+    "last_updated": "2026-11-14T15:16:59.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
