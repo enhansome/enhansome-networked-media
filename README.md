@@ -12,7 +12,7 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Audio Routing
 
-* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 20,070 | 🐛 7 | 🌐 C | 📅 2026-11-07 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
+* [Black Hole](https://github.com/ExistentialAudio/BlackHole) ⭐ 20,077 | 🐛 7 | 🌐 C | 📅 2026-11-07 (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
 * [Soundflower](https://github.com/mattingalls/Soundflower) ⭐ 9,030 | 🐛 7 | 🌐 Objective-C | 📅 2024-12-07 (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
 * [FlexASIO](https://github.com/dechamps/FlexASIO) ⭐ 2,089 | 🐛 66 | 🌐 C++ | 📅 2024-06-27 (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
 * [qpwgraph](https://github.com/rncbc/qpwgraph) ⭐ 752 | 🐛 49 | 🌐 C++ | 📅 2026-11-12 (linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.
@@ -110,8 +110,8 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Video Networking
 
-* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,875 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-17 - open source streaming software built on OBS and Electron.
-* [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) ⭐ 4,848 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-17 - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
+* [streamlabs](https://github.com/stream-labs/streamlabs-obs/) ⭐ 4,875 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-18 - open source streaming software built on OBS and Electron.
+* [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) ⭐ 4,849 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-18 - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
 * [timingsrc](https://github.com/webtiming/timingsrc) ⭐ 163 | 🐛 13 | 🌐 JavaScript | 📅 2025-01-15 - Source code for timing related libraries managed by webtiming (multi-device timing CG)
 * [Live Lab](https://github.com/ojack/LiveLab) ⭐ 56 | 🐛 27 | 🌐 JavaScript | 📅 2025-12-10
   * \[[culturehub](https://www.culturehub.org/livelab)] \[[comparing2zoom](https://docs.google.com/spreadsheets/d/1jJNNtkoSH1FunCPHS2Z05MzdUMkU_KMe71uPimGF94Q/edit#gid=0)]
@@ -190,4 +190,4 @@ BibTeX | [here](https://github.com/omarcostahamido/awesome-networked-media/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
