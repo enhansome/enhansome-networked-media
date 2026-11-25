@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 20113,
+            "stars": 20116,
             "topics": [
               "audio",
               "driver",
@@ -296,11 +296,11 @@
             "id": 177287710,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T16:17:25Z",
-            "open_issues": 180,
+            "last_commit": "2026-11-24T20:47:32Z",
+            "open_issues": 182,
             "owner": "jamulussoftware",
             "repo": "jamulus",
-            "stars": 1147,
+            "stars": 1148,
             "topics": [
               "audio",
               "internet",
@@ -711,11 +711,11 @@
             "id": 108469351,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T19:22:31Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-25T18:46:53Z",
+            "open_issues": 56,
             "owner": "streamlabs",
             "repo": "desktop",
-            "stars": 4879,
+            "stars": 4880,
             "topics": [
               "electron",
               "facebook",
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-24T12:23:40Z",
+            "last_commit": "2026-11-25T18:42:25Z",
             "open_issues": 0,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4852,
+            "stars": 4855,
             "topics": [
               "collaboration",
               "conferencing",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:39:55.773Z",
+    "last_updated": "2026-11-25T18:47:12.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
