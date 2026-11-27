@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "ExistentialAudio",
             "repo": "BlackHole",
-            "stars": 20123,
+            "stars": 20127,
             "topics": [
               "audio",
               "driver",
@@ -67,7 +67,7 @@
             "open_issues": 66,
             "owner": "dechamps",
             "repo": "FlexASIO",
-            "stars": 2098,
+            "stars": 2099,
             "topics": [
               "asio",
               "asio-drivers",
@@ -296,8 +296,8 @@
             "id": 177287710,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T20:47:32Z",
-            "open_issues": 182,
+            "last_commit": "2026-11-27T17:44:16Z",
+            "open_issues": 184,
             "owner": "jamulussoftware",
             "repo": "jamulus",
             "stars": 1148,
@@ -348,8 +348,8 @@
             "id": 32189587,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T01:14:03Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-27T18:23:15Z",
+            "open_issues": 42,
             "owner": "jacktrip",
             "repo": "jacktrip",
             "stars": 1063,
@@ -743,11 +743,11 @@
             "id": 326059244,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T11:53:03Z",
+            "last_commit": "2026-11-26T22:50:20Z",
             "open_issues": 1,
             "owner": "miroslavpejic85",
             "repo": "mirotalk",
-            "stars": 4855,
+            "stars": 4857,
             "topics": [
               "collaboration",
               "conferencing",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:34:57.681Z",
+    "last_updated": "2026-11-27T18:23:21.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for using multimedia in the network",
